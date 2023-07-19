@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">A passionate full-stack developer from Romania living with 2 purrfect cats</h3>
-<img align="right" alt="coding kitty image" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmystickermania.com%2Fsticker-packs%2Fcute-cats%2Fcat-laptop&psig=AOvVaw0lXe_6Q8A8qOnvWehIDzH7&ust=1689826283301000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjAvc3zmYADFQAAAAAdAAAAABAZ">
+<h3 align="center">A passionate full-stack developer from Romania living with 2 purr-fect cats</h3>
+
+<img align="right" alt="coding kitty image" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmystickermania.com%2Fsticker-packs%2Fcute-cats%2Fcat-laptop&psig=AOvVaw0lXe_6Q8A8qOnvWehIDzH7&ust=1689826283301000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjAvc3zmYADFQAAAAAdAAAAABAZ](https://cdn.dribbble.com/users/1787323/screenshots/15730501/media/9d5860f1323345fb8fcf07ded64cc24e.png?compress=1&resize=400x300&vertical=center)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dianaligiapena" alt="dianaligiapena" /></a> </p>
 
