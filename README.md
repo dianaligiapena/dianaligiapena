@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">A passionate full-stack developer from Romania living with 2 purr-fect cats</h3>
 
 
 <img align="right" alt="coding kitty image" width="400" src="https://static.vecteezy.com/system/resources/previews/020/153/422/original/cute-cat-working-laptop-and-writing-on-paper-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg">
 
 - 🔭 I’m currently working on **Google Chrome extension**
-
-- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **dianaligiapena@gmail.com**
 
